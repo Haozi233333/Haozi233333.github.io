@@ -1,11 +1,10 @@
 ## Welcome to My Blog？
 I think it is my first blog？（NOPE）
+And i think it will use HEXO？？？？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The First
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will setup the "git" 
 
 ```markdown
 Syntax highlighted code block
