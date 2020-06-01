@@ -1,4 +1,4 @@
-## Welcome to My Blog？
+## 操你妈
 I think it is my first blog？（NOPE）
 And i think it will use HEXO？？？？
 
