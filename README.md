@@ -1,8 +1,8 @@
-## 操你妈
+## THE FIRST
 I think it is my first blog？（NOPE）
 And i think it will use HEXO？？？？
 
-### The First
+### FUCK YOU
 
 I will setup the "git" 
 
