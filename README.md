@@ -1,35 +1,11 @@
-## THE FIRST
-I think it is my first blog？（NOPE）
-And i think it will use HEXO？？？？
+## 我想这个应该是标题
 
-### FUCK YOU
+如你所见，这个域名现在并没有什么东西，如果你看到了这些东西，就说明这个页面还在鸽（咕咕咕咕)
+然后我想用HEXO来搞这个博客，也许会写一些？？？（我觉得我不会写的）
+总之这个页面是空的就对了 鬼知道我多久会弄好这东西
 
-I will setup the "git" 
+### 其他链接
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haozi233333/Haozi233333.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+你或许可以在别的地方找到我
+这里是我的永硕E盘：
+huaji2333.ys168.com
